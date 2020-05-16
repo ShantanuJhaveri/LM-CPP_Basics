@@ -37,6 +37,12 @@ int main() {
     cin >> j;
     bool keepgoing = true;
 
+
+    // for loop structure : initial loop, then loop max or qualitiy, then incriment
+    for (int loop=0; loop <10; loop++){
+        cout << loop << " ";
+    }
+
     while (keepgoing)
     {
         if (i<j){
