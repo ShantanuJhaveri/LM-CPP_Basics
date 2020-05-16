@@ -49,4 +49,18 @@ int main() {
     // {
     //     cout << *i << " ";
     // }
+
+    // sorts for alphabetical order
+    sort(begin(vs),end(vs));
+    for(auto item:vs){
+        cout << item << " ";
+    }
+    cout << endl;
+
+    // 
+    int threes = count(begin(vi),end(vi),3);
+    cout << "vector of ints has " << threes <<" elements of three";
+
+    int tees = count(begin(vs[0]),end(vs[0]),'t');
+    cout << "first word has " << tees << " letter t's";
 }
