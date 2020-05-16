@@ -16,7 +16,7 @@ int main() {
             cout << "Your guess was too high. Try again" << endl;
         }
         if (attempt == answer) {
-            cout << "Your guess was right on the dot. Your guess was " << attempt << "and the correct answer was " << answer << endl;
+            cout << "Your guess was right on the dot. Your guess was " << attempt << " and the correct answer was " << answer << endl;
             keepGoing = false;
         }
     }
