@@ -29,23 +29,37 @@ int main() {
 
     int i;
     int j;
+    int answer;
     cout << "enter a number: ";
     cin >> i;
     cout << i;
     cout << "you have entered: " << i << ". Enter another number";
     cin >> j;
+    bool keepgoing = true;
 
-    if (i<j){
-        cout << "the first number, " << i << " is less than the second number, " << j;
-    }
-    else {
-        cout << "the first number, " << i << "is not less than the second number, " << j;
-    }
-    if (i==j) {
-        cout << "the first number, " << i << "is equal to second number, " << j;
-    }
-    if (i>j) {
-        cout << "the first number, " << i << "is greater to second number, " << j;
+    while (keepgoing)
+    {
+        if (i<j){
+            cout << "the first number, " << i << " is less than the second number, " << j;
+        }
+        else {
+            cout << "the first number, " << i << "is not less than the second number, " << j;
+        }
+        if (i==j) {
+            cout << "the first number, " << i << "is equal to second number, " << j;
+        }
+        if (i>j) {
+            cout << "the first number, " << i << "is greater to second number, " << j;
+        }
+        cout << "Compare another two numbers? Type any number to keep going. 0 for no: ";
+        cin >> answer;
+        if (answer == 0){
+            keepgoing = false;
+        }
+        else{
+            keepgoing = true;
+        }
+
     }
     return 0;
 }
