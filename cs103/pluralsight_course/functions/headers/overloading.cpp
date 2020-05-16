@@ -17,6 +17,11 @@ bool test (double x){
     return x>0;
 }
 
+//  void style doesnt return anything. IDK what you would need this for yet, but you may need it
+void test(int y){
+    return;
+}
+
 int main(){
     auto a = add(3,4);
     cout << "3+4 is " << a << endl;
