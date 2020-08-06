@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A42E666D-0978-4E38-94DF-188067675B69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pluralsightC17pp/ClassesAndObjects.cpp">
+    <Files>
+      <File FileName="pluralsightC17pp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pluralsightC17pp" expanded="True">
+            <Node name="pluralsightC17pp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pluralsightC17pp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
