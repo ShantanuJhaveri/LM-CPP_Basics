@@ -6,37 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/shantanujhaveri/CLionProjects/untitled/Person.cpp
-Person.h
-/Users/shantanujhaveri/CLionProjects/untitled/Person.h
-iostream
--
-
-/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.h
 string
 -
 
-/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp
+/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.cpp
 Tweeter.h
-/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
+/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.h
 iostream
 -
 
-/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
+/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.h
 Person.h
-/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.h
 string
 -
-
-/Users/shantanujhaveri/CLionProjects/untitled/main.cpp
-iostream
--
-Person.h
-/Users/shantanujhaveri/CLionProjects/untitled/Person.h
-Tweeter.h
-/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
-status.h
-/Users/shantanujhaveri/CLionProjects/untitled/status.h
-
-/Users/shantanujhaveri/CLionProjects/untitled/status.h
 

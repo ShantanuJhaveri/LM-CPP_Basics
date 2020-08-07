@@ -16,9 +16,10 @@ private:
 
 public:
     Person(std::string first, std::string last, int random);
-    Person();
     ~Person();
-    std::string getName();
+    std::string getName() const;
+    int getNumber() const {return randomNumber;};
+    void setNumber(int number) {randomNumber = number;};
 
 };
 

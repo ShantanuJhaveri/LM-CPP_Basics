@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shantanujhaveri/CLionProjects/untitled/Person.cpp" "/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Person.cpp.o"
-  "/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp" "/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tweeter.cpp.o"
-  "/Users/shantanujhaveri/CLionProjects/untitled/main.cpp" "/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.cpp" "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Person.cpp.o"
+  "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.cpp" "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Tweeter.cpp.o"
+  "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/main.cpp" "/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

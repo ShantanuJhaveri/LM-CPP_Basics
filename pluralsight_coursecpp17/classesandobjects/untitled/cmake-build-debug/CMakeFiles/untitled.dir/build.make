@@ -63,10 +63,10 @@ RM = /private/var/folders/36/7_ps5ckx05x33pntjb243bdm0000gn/T/AppTranslocation/5
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/shantanujhaveri/CLionProjects/untitled
+CMAKE_SOURCE_DIR = /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -79,42 +79,42 @@ include CMakeFiles/untitled.dir/flags.make
 
 CMakeFiles/untitled.dir/main.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/shantanujhaveri/CLionProjects/untitled/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/main.cpp
 
 CMakeFiles/untitled.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/CLionProjects/untitled/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
 
 CMakeFiles/untitled.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/CLionProjects/untitled/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
 
 CMakeFiles/untitled.dir/Tweeter.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Tweeter.cpp.o: ../Tweeter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/Tweeter.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Tweeter.cpp.o -c /Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/Tweeter.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Tweeter.cpp.o -c /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.cpp
 
 CMakeFiles/untitled.dir/Tweeter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Tweeter.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp > CMakeFiles/untitled.dir/Tweeter.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.cpp > CMakeFiles/untitled.dir/Tweeter.cpp.i
 
 CMakeFiles/untitled.dir/Tweeter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Tweeter.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp -o CMakeFiles/untitled.dir/Tweeter.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Tweeter.cpp -o CMakeFiles/untitled.dir/Tweeter.cpp.s
 
 CMakeFiles/untitled.dir/Person.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Person.cpp.o: ../Person.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Person.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Person.cpp.o -c /Users/shantanujhaveri/CLionProjects/untitled/Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/Person.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Person.cpp.o -c /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.cpp
 
 CMakeFiles/untitled.dir/Person.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Person.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/CLionProjects/untitled/Person.cpp > CMakeFiles/untitled.dir/Person.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.cpp > CMakeFiles/untitled.dir/Person.cpp.i
 
 CMakeFiles/untitled.dir/Person.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Person.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/CLionProjects/untitled/Person.cpp -o CMakeFiles/untitled.dir/Person.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/Person.cpp -o CMakeFiles/untitled.dir/Person.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -130,7 +130,7 @@ untitled: CMakeFiles/untitled.dir/Tweeter.cpp.o
 untitled: CMakeFiles/untitled.dir/Person.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -143,6 +143,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	cd /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/shantanujhaveri/CLionProjects/untitled /Users/shantanujhaveri/CLionProjects/untitled /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 

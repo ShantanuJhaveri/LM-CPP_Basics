@@ -7,17 +7,14 @@
 
 Person::Person(std::string first, std::string last, int random): firstname(first), lastname(last), randomNumber(random)
 {
-    std::cout << "constructing " << firstname << " " << lastname << std::endl;
+    std::cout << "constructing " << getName() << std::endl;
 };
 
-Person::Person() : randomNumber(0){
-    std::cout << "constructing " << firstname << " " << lastname << std::endl;
-}
-
 Person::~Person() {
-    std::cout << "deconstructing " << firstname << " " << lastname << std::endl;
+    std::cout << "deconstructing " << getName() << std::endl;
 }
 
-std::string Person::getName() {
+std::string Person::getName() const
+{
     return firstname + " " + lastname;
 }

@@ -13,5 +13,5 @@ Person(first,last,random),twitterhandle(handle) // first 3 parameters are inhere
 }
 
 Tweeter::~Tweeter() {
-    std::cout << "deconstructing tweeter " << twitterhandle <<std::endl;
+    std::cout << "deconstructing handle " << twitterhandle <<std::endl;
 }

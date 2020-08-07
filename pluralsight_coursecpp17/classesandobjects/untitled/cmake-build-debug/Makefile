@@ -68,10 +68,10 @@ RM = /private/var/folders/36/7_ps5ckx05x33pntjb243bdm0000gn/T/AppTranslocation/5
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/shantanujhaveri/CLionProjects/untitled
+CMAKE_SOURCE_DIR = /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shantanujhaveri/CLionProjects/untitled/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/classesandobjects/untitled/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
