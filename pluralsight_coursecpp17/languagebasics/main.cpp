@@ -1,33 +1,19 @@
 #include <iostream>
+#include <string>
 using std::cout;
 using std::cin;
 using std::endl;
+using std::string;
 
 
 int main() {
-    int x;
+    int x = 99;
     cout << "enter a number, 0 or negative to quit" << endl;
-    cin >> x;
     while (x>0)
     {
-        switch(x){
-            case 1:
-                cout << "you entered 1" << endl;
-                break;
-            case 2:
-            case 3:
-                cout << "you entered 2 or 3" << endl;
-                break;
-            case 4:
-                cout << "you entered 4" << endl;
-            case 5:
-                cout << "you entered 5" << endl;
-                break;
-            default:
-                cout << "you entered a number not on the list" << endl;
-        }
-        cout << "enter the number again, same rules" << endl;
         cin >> x;
+        string sign = x>0? "positive":"not positive";
+        cout << "your number is " << sign << endl;
     }
     return 0;
 
