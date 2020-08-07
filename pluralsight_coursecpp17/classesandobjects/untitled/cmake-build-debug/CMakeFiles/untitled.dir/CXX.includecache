@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shantanujhaveri/CLionProjects/untitled/Person.cpp
+Person.h
+/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+iostream
+-
+
+/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+string
+-
+
+/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.cpp
+Tweeter.h
+/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
+iostream
+-
+
+/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
+Person.h
+/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+string
+-
+
+/Users/shantanujhaveri/CLionProjects/untitled/main.cpp
+iostream
+-
+Person.h
+/Users/shantanujhaveri/CLionProjects/untitled/Person.h
+Tweeter.h
+/Users/shantanujhaveri/CLionProjects/untitled/Tweeter.h
+status.h
+/Users/shantanujhaveri/CLionProjects/untitled/status.h
+
+/Users/shantanujhaveri/CLionProjects/untitled/status.h
+
