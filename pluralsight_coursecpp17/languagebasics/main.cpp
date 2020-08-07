@@ -6,25 +6,29 @@ using std::endl;
 
 int main() {
     int x;
-    cout << "enter a number" << endl;
+    cout << "enter a number, 0 or negative to quit" << endl;
     cin >> x;
-
-    bool  prime = true;
-    for (int i=2; i<=x/i; i++)
+    while (x>0)
     {
-        cout << i << endl;
-        int factor = x/i;
-        if (factor*i == x)
-        {
-            cout << "factor found " << i << " * " << factor <<endl;
-            prime = false;
-//            break;
+        switch(x){
+            case 1:
+                cout << "you entered 1" << endl;
+                break;
+            case 2:
+            case 3:
+                cout << "you entered 2 or 3" << endl;
+                break;
+            case 4:
+                cout << "you entered 4" << endl;
+            case 5:
+                cout << "you entered 5" << endl;
+                break;
+            default:
+                cout << "you entered a number not on the list" << endl;
         }
+        cout << "enter the number again, same rules" << endl;
+        cin >> x;
     }
-
-    cout << x << " is ";
-    if (prime) cout << "prime" << endl;
-    else cout << "Not prime" << endl;
     return 0;
 
 }
