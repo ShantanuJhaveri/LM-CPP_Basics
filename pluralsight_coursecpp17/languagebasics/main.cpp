@@ -5,20 +5,26 @@ using std::endl;
 
 
 int main() {
-    int x,y;
-    cout << "Enter two numbers" << endl;
-    cin >> x >> y;
-    cout << x << " ";
-    if (x>y){
-        cout << "is larger than ";
-    }
-    else{
-        cout << "is not larger than ";
-    }
-    cout << y << endl;
+    int x;
+    cout << "enter a number" << endl;
+    cin >> x;
 
-    if (x+y > 10) cout << "thanks for large numbers" << endl;
+    bool  prime = true;
+    for (int i=2; i<=x/i; i++)
+    {
+        cout << i << endl;
+        int factor = x/i;
+        if (factor*i == x)
+        {
+            cout << "factor found " << i << " * " << factor <<endl;
+            prime = false;
+//            break;
+        }
+    }
 
+    cout << x << " is ";
+    if (prime) cout << "prime" << endl;
+    else cout << "Not prime" << endl;
     return 0;
 
 }
