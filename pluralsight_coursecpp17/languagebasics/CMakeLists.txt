@@ -3,4 +3,4 @@ project(languagebasics)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(languagebasics main.cpp)
+add_executable(languagebasics main.cpp Utility.cpp Utility.h)

@@ -1,20 +1,20 @@
 #include <iostream>
-#include <string>
 using std::cout;
 using std::cin;
 using std::endl;
-using std::string;
 
+#include "Utility.h"
 
 int main() {
-    int x = 99;
-    cout << "enter a number, 0 or negative to quit" << endl;
-    while (x>0)
-    {
-        cin >> x;
-        string sign = x>0? "positive":"not positive";
-        cout << "your number is " << sign << endl;
-    }
+    int x;
+    cout << "Enter a number" << endl;
+    cin >> x;
+
+    if (IsPrime(x)==true)
+        cout << x << " is prime" << endl;
+    else
+        cout << x << " is not prime" << endl;
+
     return 0;
 
 }

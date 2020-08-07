@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/languagebasics/Utility.cpp">
+			<Option target="languagebasics"/>
+		</Unit>
+		<Unit filename="/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/languagebasics/Utility.h">
+			<Option target="languagebasics"/>
+		</Unit>
 		<Unit filename="/Users/shantanujhaveri/Documents/GitHub/Learning-Modules_C-/pluralsight_coursecpp17/languagebasics/main.cpp">
 			<Option target="languagebasics"/>
 		</Unit>
